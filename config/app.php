@@ -166,7 +166,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider', // Laravel IDE helper
         //
 
         /*
